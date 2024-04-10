@@ -2,7 +2,7 @@
 
 using MySql.Data.MySqlClient;
 using System.Xml.Linq;
-
+//test change
 namespace MinionsAdd
 {
     public partial class Form1 : Form

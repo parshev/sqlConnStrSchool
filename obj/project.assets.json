@@ -1791,11 +1791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\MinionsAdd\\MinionsAdd\\MinionsAdd.csproj",
+      "projectUniqueName": "D:\\Project\\SCHOOL\\sqlStringConn\\MinionsAdd\\MinionsAdd\\MinionsAdd.csproj",
       "projectName": "MinionsAdd",
-      "projectPath": "C:\\Users\\Administrator\\Downloads\\MinionsAdd\\MinionsAdd\\MinionsAdd.csproj",
+      "projectPath": "D:\\Project\\SCHOOL\\sqlStringConn\\MinionsAdd\\MinionsAdd\\MinionsAdd.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Downloads\\MinionsAdd\\MinionsAdd\\obj\\",
+      "outputPath": "D:\\Project\\SCHOOL\\sqlStringConn\\MinionsAdd\\MinionsAdd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
